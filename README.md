@@ -9,4 +9,4 @@ The guiding path is collected from Touch Display and the speed of car is proport
 All coordinates are distributed through 64 squares of a chessboard, if present coordinate moves from ith-jth square to i+1st/jth square we count how many time was taken by a movement and decide the speed. According to speed and direction car moves straight or makes number of required turns.
 
 ![ ](RaspberryCarInProgress.gif)
-![ ](aspberryCarInProcess.jpg)
+![ ](RaspberryCarInProcess.jpg)
